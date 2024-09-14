@@ -6,8 +6,8 @@ My name is Denis Kochetkov. I am a HSE Student and this is my first repository.
 ------------
 
 #### What is it for?
-- C, C++ learning
-- Technology of programming
+- C, C++ learning (Lupanova Elena Aleksandrovna)
+- Technology of programming (Ulitin Boris Igorevich)
 - and etc.
 
 ------------
