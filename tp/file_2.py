@@ -4,4 +4,4 @@ print(f'A: {a}, B: {b}')
 
 a = int(a)
 b = int(b)
-print(f'Sum of A and B is {a + b}')
+print(f'Diff of A and B is {a - b}')
