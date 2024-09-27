@@ -16,7 +16,6 @@ bool is_prime(const int num) {
 }
 int factorial(const int n) {
     if (n < 0) {
-        printf("Факториал отрицательного числа не определен.\n");
         return 0;
     } else if (n == 0 || n == 1) {
         return 1;
